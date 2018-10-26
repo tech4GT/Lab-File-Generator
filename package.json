@@ -9,6 +9,8 @@
   "author": "tech4gt",
   "license": "ISC",
   "dependencies": {
+    "capture-console": "^1.0.1",
+    "markdown-pdf": "^9.0.0",
     "readline-sync": "^1.4.9"
   }
 }
